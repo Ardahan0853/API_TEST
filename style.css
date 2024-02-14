@@ -1,0 +1,27 @@
+.container{
+    width: 1000px;
+    height: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.container-javascript{
+    width: 100%;
+}
+
+
+.inside-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
